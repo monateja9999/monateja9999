@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akhilaa Sonduri Panthangi</h1>
+<h1 align="center">Hi 👋, I'm Mona Teja Kurakula</h1>
 
 
 <h3 align="left">🌟 About Me :</h3>
