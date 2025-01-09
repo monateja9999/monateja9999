@@ -10,7 +10,7 @@
 <p align="left">🤖 Enthusiastic about software development and full-stack projects.</p>
 
 <p align="left">
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23007D00.svg?&style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.monatejakurakula.netifly.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23007D00.svg?&style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <h3 align="left">🏅 Publications and Certificates :</h3>
