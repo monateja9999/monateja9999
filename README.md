@@ -6,7 +6,7 @@
 <p align="left">💻 Passionate software developer with cloud computing expertise.</p>
 <p align="left">🎓 Pursuing Master's in Computer Science at USC.</p>
 <p align="left">☁️ Experienced in AWS, GCP, and scalable solutions.</p>
-<p align="left">📈 Developed real-time stock search and prediction models.</p>
+<p align="left">📈 Developed real-time stock search simulation website and prediction models.</p>
 <p align="left">🤖 Enthusiastic about software development and full-stack projects.</p>
 
 <p align="left">
