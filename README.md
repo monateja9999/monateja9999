@@ -19,7 +19,7 @@
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Certifications-%23007BFF?style=for-the-badge&logo=certification&logoColor=white" alt="Certifications" />
   </a>&nbsp;
-  <a href="" target="_blank">
+  <a href="https://www.researchgate.net/profile/Mona-Teja-Kurakula" target="_blank">
     <img src="https://img.shields.io/badge/Publications-%23FF5722?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Publications" />
   </a>
 </p>
