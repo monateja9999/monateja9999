@@ -16,7 +16,7 @@
 <h3 align="left">🏅 Publications and Certificates :</h3>
 
 <p align="left">
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/monateja9999/details/certifications" target="_blank">
     <img src="https://img.shields.io/badge/Certifications-%23007BFF?style=for-the-badge&logo=certification&logoColor=white" alt="Certifications" />
   </a>&nbsp;
   <a href="https://www.researchgate.net/profile/Mona-Teja-Kurakula" target="_blank">
