@@ -5,7 +5,7 @@
   
 <p align="left">💻 Passionate Software Developer with Cloud Computing expertise.</p>
 <p align="left">📝 Computer Science Grader for Web Technologies Course (CSCI 571) under Prof. Marco Papa</p>
-<p align="left">🎓 Pursuing Master's in Computer Science at USC.</p>
+<p align="left">🎓 Pursuing Master's in Computer Science at the University of Southern California (USC).</p>
 <p align="left">☁️ Experienced in AWS, GCP, and scalable solutions.</p>
 <p align="left">📈 Developed real-time stock search simulation website and prediction models. <a href="https://myclient6853863452.wl.r.appspot.com">LINK</a></p>
 <p align="left">🤖 Enthusiastic about software development and full-stack projects.</p>
@@ -146,6 +146,9 @@
 <h3 align="left">📞 Contact Me :</h3>
 <p align="left">
   <a href="mailto:mkurakul@usc.edu" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%230077FF?style=for-the-badge&logo=gmail&logoColor=white" alt=" USC Email" />
+  </a>&nbsp;
+  <a href="mailto:monateja9999@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%230077FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/monateja9999/" target="_blank">
