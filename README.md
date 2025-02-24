@@ -3,7 +3,7 @@
 
 <h3 align="left">🌟 About Me :</h3>
   
-<p align="left">💻 Passionate software developer with cloud computing expertise.</p>
+<p align="left">💻 Passionate Software Developer with Cloud Computing expertise.</p>
 <p align="left">📝 Computer Science Grader for Web Technologies Course (CSCI 571) under Prof. Marco Papa</p>
 <p align="left">🎓 Pursuing Master's in Computer Science at USC.</p>
 <p align="left">☁️ Experienced in AWS, GCP, and scalable solutions.</p>
