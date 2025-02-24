@@ -146,7 +146,7 @@
 <h3 align="left">📞 Contact Me :</h3>
 <p align="left">
   <a href="mailto:mkurakul@usc.edu" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%230077FF?style=for-the-badge&logo=gmail&logoColor=white" alt=" USC Email" />
+    <img src="https://img.shields.io/badge/USC Email-%230077FF?style=for-the-badge&logo=gmail&logoColor=white" alt=" USC Email" />
   </a>&nbsp;
   <a href="mailto:monateja9999@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%230077FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
