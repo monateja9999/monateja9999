@@ -8,7 +8,7 @@
 <p align="left">🎓 Pursuing Master's in Computer Science at the University of Southern California (USC).</p>
 <p align="left">☁️ Experienced in AWS, GCP, and scalable solutions.</p>
 <p align="left">📈 Developed real-time stock search simulation website and prediction models. <a href="https://myclient6853863452.wl.r.appspot.com">LINK</a></p>
-<p align="left">🤖 Enthusiastic about software development and full-stack projects.</p>
+<p align="left">🤖 Enthusiastic about LLMs, RAG and Gen-AI.</p>
 
 <p align="left">
 <a href="https://monatejakurakula.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23007D00.svg?&style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio" /></a>
