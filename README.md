@@ -3,7 +3,7 @@
 
 <h3 align="left">🌟 About Me :</h3>
   
-<p align="left">💻 Passionate Software Engineer with Cloud Computing expertise and designing scalable solutions.</p>
+<p align="left">💻 Passionate Software Engineer with Software Development and Cloud Computing expertise in designing scalable solutions.</p>
 <p align="left">🎓 Pursuing Master's in Computer Science at the University of Southern California (USC).</p>
 <p align="left">📝 Computer Science Grader for Web Technologies Course under Prof. Marco Papa</p>
 <p align="left">☁️ Experienced in AWS, GCP, and designing scalable solutions.</p>
