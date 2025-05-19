@@ -4,7 +4,7 @@
 <h3 align="left">🌟 About Me :</h3>
   
 <p align="left">💻 Passionate Software Engineer with Software Development and Cloud Computing expertise in designing scalable solutions.</p>
-<p align="left">🎓 Graduated with a Master’s Degree in Computer Science from University of Southern California (USC).</p>
+<p align="left">🎓 Graduated with a Master’s Degree in Computer Science from University of Southern California (USC) 2025.</p>
 <p align="left">📝 Computer Science Grader for Web Technologies Course under Prof. Marco Papa</p>
 <p align="left">☁️ Experienced in AWS, GCP, and designing scalable solutions.</p>
 <p align="left">📈 Developed real-time stock search simulation website and prediction models. <a href="https://myclient6853863452.wl.r.appspot.com">LINK</a></p>
