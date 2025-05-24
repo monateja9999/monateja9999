@@ -7,7 +7,7 @@
 <p align="left">🎓 Graduated with a Master’s Degree in Computer Science from the University of Southern California (USC).</p>
 <p align="left">📝 Former Computer Science Grader for Web Technologies Course under Prof. Marco Papa</p>
 <p align="left">☁️ Experienced in AWS, GCP, and designing scalable solutions.</p>
-<p align="left">📈 Developed real-time stock search simulation website and prediction models. <a href="https://myclient6853863452.wl.r.appspot.com">LINK</a></p>
+<p align="left">📈 Developed real-time stock search simulation website (Stock Trek) and prediction models. <a href="https://myclient6853863452.wl.r.appspot.com">LINK</a></p>
 <p align="left">🤖 Enthusiastic and Experimental about applications using LLMs, RAG, and Gen-AI </p>
 
 <p align="left">
