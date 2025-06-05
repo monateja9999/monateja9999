@@ -3,7 +3,7 @@
 
 <h3 align="left">🌟 About Me :</h3>
   
-<p align="left">💻 Software Engineer with Software Development and Cloud Computing expertise.</p>
+<p align="left">💻 Software Development Engineer with Software Development and Cloud Computing expertise.</p>
 <p align="left">🎓 Graduated with a Master of Science (M.S.) Degree in Computer Science from the University of Southern California (USC).</p>
 <p align="left">📝 Former Computer Science Grader for Web Technologies Course (CSCI 571) under Prof. Marco Papa</p>
 <p align="left">☁️ Experienced in AWS, GCP, and designing scalable solutions.</p>
