@@ -26,7 +26,7 @@
 </p>
 
 
-<h3 align="left">🚀 Technologies and Tools I use :</h3>
+<h3 align="left">🚀 Tools and Technologies I use :</h3>
 
 <table>
   <tr>
