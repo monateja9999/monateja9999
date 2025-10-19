@@ -14,7 +14,7 @@
 <a href="https://monatejakurakula.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23007D00.svg?&style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-<h3 align="left">🏅 Publications and Certificates :</h3>
+<h3 align="left">🏅 Publications and Certificates:</h3>
 
 <p align="left">
     <a href="https://www.researchgate.net/profile/Mona-Teja-Kurakula" target="_blank">
