@@ -37,7 +37,6 @@ mona = {
     "currently"  : "Building AI-powered Agentic applications with LLMs & RAG",
     "past"       : ["Shell – Transformational Change Analyst", "Identity & Access Management", "USC CS Grader (CSCI 571)"],
     "interests"  : ["LLMs", "RAG Pipelines", "Gen-AI", "Data Analytics", "Org Strategy"],
-    "location"   : "San Antonio, TX 📍",
     "fun_fact"   : "I bridge enterprise strategy with cutting-edge AI 🤖"
 }
 ```
@@ -121,11 +120,11 @@ mona = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monateja9999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=monateja9999&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
   <img src="https://streak-stats.demolab.com/?user=monateja9999&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monateja9999&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=monateja9999&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
 </p>
 
 ---
