@@ -44,44 +44,37 @@ mona = {
 ---
 
 ## 🚀 Featured Projects
+
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>📈 Stock Trek</h3>
-      <p>Real-time stock search simulation Web & Mobile Application. Fetches live quotes, news, charts, and recommendations.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
-      </p>
-      
+      Real-time stock search simulation Web & Mobile Application. Fetches live quotes, news, charts, and recommendations.<br><br>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/><br><br>
       <div align="center">
-        <a href="https://www.youtube.com/watch?v=0IYM2VKoPzM" target="_blank">
-          <img src="https://img.youtube.com/vi/0IYM2VKoPzM/0.jpg" alt="Watch the Mobile App Demo" width="90%" style="border-radius: 8px;"/>
-        </a>
-        <br/>
-        <i>🎬 Click to watch the Mobile App Demo</i>
-      </div>
-      <br/>
+        <a href="https://www.youtube.com/watch?v=0IYM2VKoPzM">
+          <img src="https://img.youtube.com/vi/0IYM2VKoPzM/hqdefault.jpg" alt="Watch the Mobile App Demo" width="100%">
+        </a><br>
+        <i>🎬 Click image to watch Mobile App Demo</i>
+      </div><br>
       <a href="https://stock-trek.netlify.app/">🔗 Live Web Demo</a>
     </td>
     <td width="50%" valign="top">
       <h3>🤖 AI Agentic Systems</h3>
-      <p>Designing and deploying autonomous AI agents using LLMs, RAG pipelines, and tool-use frameworks for real-world task automation.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
-      </p>
+      Designing and deploying autonomous AI agents using LLMs, RAG pipelines, and tool-use frameworks for real-world task automation.<br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🛠️ Tools & Technologies
