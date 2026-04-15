@@ -81,15 +81,16 @@ mona = {
 
 ### 🧠 AI & Agentic Systems
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Cursor IDE](https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge)
 ![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Llama 3](https://img.shields.io/badge/Llama_3-044124?style=for-the-badge&logo=meta&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-121212?style=for-the-badge)
 ![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-000000?style=for-the-badge)
 ![LLM Fine-Tuning](https://img.shields.io/badge/LLM_Fine--Tuning-4B32C3?style=for-the-badge)
 ![Chain of Thought](https://img.shields.io/badge/Chain_of_Thought-20232A?style=for-the-badge)
-![Cursor IDE](https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge)
+
 
 ### 💻 Full Stack Engineering
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
